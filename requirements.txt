@@ -1,1 +1,4 @@
-Flask==0.12
+Flask==1.1.2
+setuptools==40.3.0
+google-cloud-ndb
+googleapis_common_protos
