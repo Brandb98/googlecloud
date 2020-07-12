@@ -2,6 +2,6 @@ service: default
 runtime: python37
 
 handlers:
-  - url: .*
+  - url: auto
     script: main.app
     secure: always
